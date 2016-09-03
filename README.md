@@ -26,4 +26,4 @@ After choosing the folder it will add the extension like the first image and mak
 
   ![alt text] (https://cloud.githubusercontent.com/assets/3829498/18223646/46e4f61c-71db-11e6-9158-8494a409d18d.png)
 
-* Open Browser and login to your fb account and after 5 minutes you will be logged-out from facebook. 
+* Open Browser and login to your Gmail account and after 5 minutes you will be logged-out from Gmail. 
